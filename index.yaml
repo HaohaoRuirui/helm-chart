@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://HaohaoRuirui.github.io/helm-chart/test-0.1.0.tgz
+    - https://haohaoruirui.github.io/helm-chart/test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-06-02T10:40:16.779110011+08:00"
